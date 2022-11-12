@@ -1,1 +1,1 @@
-# Hackintosh_Galaxy-B660-Metaltop
+Hackintosh OpenCore + Intel Alder Lake Core i5-12490F + Galaxy B660 Metaltop + Radeon RX 5700XT
